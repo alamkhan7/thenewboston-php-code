@@ -1,0 +1,24 @@
+<producers> 
+		<producer> 
+			<name>Alam</name>
+			<age> 10 </age>
+			<show>
+				<showname>A Show</showname>
+				<showdate>01/01/2001</showdate>
+			</show>
+			<show>
+				<showname>B Show</showname>
+				<showdate>02/02/2002</showdate>
+			</show>
+		</producer>
+
+		<producer> 
+			<name>Qadar</name>
+			<age> 133 </age>
+			<show>
+				<showname>C Show</showname>
+				<showdate>03/03/2003</showdate>
+			</show>
+		</producer>
+
+</producers>

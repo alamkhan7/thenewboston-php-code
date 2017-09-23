@@ -1,0 +1,16 @@
+<producers> 
+		<producer> 
+			<name>Alam</name>
+			<age> 10 </age>
+		</producer>
+
+		<producer> 
+			<name>Qadar</name>
+			<age> 133 </age>
+		</producer>
+
+		<producer> 
+			<name>Khan</name>
+			<age> 45 </age>
+		</producer>
+</producers>
